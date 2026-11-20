@@ -34,10 +34,3 @@ src/
   App.tsx      layout and navigation
   Alerts.test.tsx
 ```
-
-
-## Screenshots
-_Add screenshots of Overview, Alerts and Devices._
-
-## Quality
-_Add your Lighthouse scores after running it on the deployed site._
