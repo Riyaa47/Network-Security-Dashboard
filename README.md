@@ -2,9 +2,6 @@
 
 A responsive, accessible React + TypeScript dashboard for monitoring network security: KPI overview, traffic and threat charts, a searchable/filterable alerts table, and a device status view.
 
-**Live demo:** _add your Vercel/Netlify link_  
-**Figma design:** _add the link to the design you followed_
-
 ## Features
 - Loading and error states (with a Try again button) on every data view; add `?fail` to the URL to preview the error state
 - Overview with KPI cards, traffic line chart and threats-by-type bar chart (Recharts)
@@ -38,8 +35,6 @@ src/
   Alerts.test.tsx
 ```
 
-## Design to code
-_Add side-by-side screenshots of the Figma design and this build, and note any differences._
 
 ## Screenshots
 _Add screenshots of Overview, Alerts and Devices._
